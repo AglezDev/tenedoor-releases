@@ -3,10 +3,10 @@
 Descargas directas de las aplicaciones Android de TeneDoor.
 
 ## App de clientes
-**TeneDoor v1.0.19** (última versión)
-[Descargar APK](https://raw.githubusercontent.com/AglezDev/tenedoor-releases/main/apks/tenedoor-1.0.19.apk)
+**TeneDoor v1.0.20** (última versión)
+[Descargar APK](https://raw.githubusercontent.com/AglezDev/tenedoor-releases/main/apks/tenedoor-1.0.20.apk)
 
-Versión anterior: [v1.0.18](https://raw.githubusercontent.com/AglezDev/tenedoor-releases/main/apks/tenedoor-1.0.18.apk)
+Versión anterior: [v1.0.19](https://raw.githubusercontent.com/AglezDev/tenedoor-releases/main/apks/tenedoor-1.0.19.apk)
 
 ## Panel de administración
 **TeneDoor Panel v1.0.14** (última versión) — para dueños de negocio y administradores.
